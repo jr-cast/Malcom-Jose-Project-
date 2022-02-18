@@ -1,5 +1,8 @@
 #nav-bar {
     display: flex;
+    position: fixed;
+    top: 0px;
+    width: 100%;
 }
 
 
@@ -40,3 +43,4 @@ a {
         font-size: 3rem;
     }
 }
+
